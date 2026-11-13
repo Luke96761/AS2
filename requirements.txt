@@ -1,0 +1,2 @@
+# AI assistance: ChatGPT helped identify pandas as the dashboard's data dependency.
+pandas>=2.0
